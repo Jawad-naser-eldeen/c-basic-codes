@@ -5,7 +5,7 @@ int main() {
     scanf("%d",&x);
     printf("Please enter second number:");
     scanf("%d",&y);
-    printf("Please enter t hirdnumber:");
+    printf("Please enter thirdnumber:");
     scanf("%d",&z);
     sum=x+y+z;
     taksim=sum/3;
